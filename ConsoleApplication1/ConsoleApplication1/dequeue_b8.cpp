@@ -16,7 +16,7 @@ void menu()
 	cout << endl;
 	cout << endl;
 	cout << "If you want to:" << endl;
-	cout << " - fill the file with the numbers - press 1" << endl;
+	cout << " - fill the file with the numbers - press 1" << endl; 
 	cout << " - full the queue using the textfile - press 2" << endl;
 	cout << " - fulfill the main task - press 3" << endl;
 	cout << " - fulfill the main task (for the queue section) - press 4" << endl;
